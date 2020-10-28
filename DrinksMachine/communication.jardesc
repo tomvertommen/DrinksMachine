@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="DrinksMachineClient/WebContent/WEB-INF/lib/communication.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DrinksMachine/communication.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.communication{Reply.java"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.communication{Request.java"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.communication{Constants.java"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.business"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.communication{RequestName.java"/>
+        <file path="/DrinksMachine/src/log4j.properties"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.tools"/>
+    </selectedElements>
+</jardesc>

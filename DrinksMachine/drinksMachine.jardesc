@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/DrinksMachine/drinksMachine.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DrinksMachine/drinksMachine.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/DrinksMachine/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.communication"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.business"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.persistence"/>
+        <javaElement handleIdentifier="=DrinksMachine/src&lt;be.tomvertommen.drinksMachine.tools"/>
+    </selectedElements>
+</jardesc>
